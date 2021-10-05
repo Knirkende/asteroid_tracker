@@ -1,0 +1,6 @@
+*.pyc
+__pycache__/
+ignore/
+ole_secrets.py
+credentials.json
+token.json
